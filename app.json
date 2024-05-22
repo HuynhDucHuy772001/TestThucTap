@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "my-project",
+    "slug": "my-project-h2rsjydvr6lrwcepttc6s",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#00000"
+      },
+      "package": "com.kayn77.myprojecth2rsjydvr6lrwcepttc6s"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0aba8fe7-5eb5-410c-aa59-99a4117d13aa"
+      }
+    },
+    "owner": "kayn77"
+  }
+}
